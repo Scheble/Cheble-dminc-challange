@@ -1,0 +1,15 @@
+{
+    "scripts": {
+        "start": "node server.js",
+        "test": "jest"
+    },
+    "dependencies": {
+        "@types/jest": "^27.0.2",
+        "axios": "^0.24.0",
+        "fastify": "^3.22.1",
+        "jest": "^27.3.1"
+    },
+    "devDependencies": {
+        "eslint": "^8.1.0"
+    }
+}
